@@ -1,0 +1,29 @@
+.vs/
+*.user
+*.suo
+*.sqlite
+*.db
+*.cache
+*.log
+
+bin/
+obj/
+Debug/
+Release/
+
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.opendb
+
+# Visual Studio workspace files
+**/workspace.json
+**/ProjectSettings.json
+**/DocumentLayout.json
+**/DocumentLayout.backup.json
+
+# Package Management
+packages/
+packages.config
